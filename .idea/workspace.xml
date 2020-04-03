@@ -2,64 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7e65343-02a9-41a9-822a-accb779223ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/hackerrank_java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayListSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HourGlass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaListQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaOutputFormatting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Loop1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SortSingleLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/question1/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/question1/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/question1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/question1/question2/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/question1/question2/Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/question1/question2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ArrayListSolution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/HelloWorld.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/IfElse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Java1DArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/JavaListQuery.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/JavaOutputFormatting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/JavaRegexIp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/hackerrank_java.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Prime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SortSingleLoop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SubArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/question1/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/question1/Bird.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/question1/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/question1/question2/Adder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/question1/question2/Arithmetic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/inheritance/question1/question2/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandelingQ1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyCalculatorInterfaceQues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/InstanceOFTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/JavaIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/abstractques/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/abstractques/MyBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/javamethodoverriding/BiCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/javamethodoverriding/Soccer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPS/javamethodoverriding/Sports.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java_1D_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java1DArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Substringcom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Substringcom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dayofweek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DayOfWeek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello_world.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/if_else.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java_regex_ip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaRegexIp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/loop1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/loop2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Loop2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/staticblock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Staticblock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/string1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/String1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stringtoken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stringtoken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaCurrencyFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaCurrencyFormatter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java_1D_Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MyRegex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MyRegex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Substringcom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Substringcom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dayofweek$IntToString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dayofweek$IntToString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dayofweek.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dayofweek.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hello_world.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/if_else.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/java_regex_ip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/loop1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/question1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOPS/inheritance/question1/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/question1/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOPS/inheritance/question1/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/question1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOPS/inheritance/question1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/question1/question2/Adder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOPS/inheritance/question1/question2/Adder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/question1/question2/Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOPS/inheritance/question1/question2/Arithmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inheritance/question1/question2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOPS/inheritance/question1/question2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/learningJava/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SortSingleLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SortSingleLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SubArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/question1/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/question1/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/question1/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/question1/question2/Adder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/question1/question2/Arithmetic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/inheritance/question1/question2/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/learningJava/test.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/loop2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/loop2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/staticblock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/staticblock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/string1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/string1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/stringtoken.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/stringtoken.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -75,83 +44,117 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ArrayListSolution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="33" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#270#285#0" expanded="true" />
-                <element signature="e#330#339#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/question1/Animal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#69#70#0" expanded="true" />
-                <element signature="e#119#120#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/question1/Bird.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding>
-                <element signature="e#75#76#0" expanded="true" />
-                <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/question1/question2/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/question1/question2/Adder.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/inheritance/question1/question2/Arithmetic.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+              <caret line="2" selection-start-line="2" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/abstractques/Book.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
               <folding>
-                <element signature="e#113#114#0" expanded="true" />
-                <element signature="e#142#143#0" expanded="true" />
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/abstractques/MyBook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/javamethodoverriding/Soccer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/javamethodoverriding/BiCycle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="26" />
+              <folding>
+                <element signature="e#73#74#0" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/InstanceOFTutorial.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="18" column="16" selection-start-line="12" selection-start-column="11" selection-end-line="18" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/JavaIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#343#377#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/question1/question2/Arithmetic.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ExceptionHandelingQ1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="9" />
+            <state relative-caret-position="235">
+              <caret line="16" column="67" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/question1/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/javamethodoverriding/Sports.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#70#71#0" expanded="true" />
+                <element signature="e#109#110#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -171,13 +174,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/hello_world.java" />
-        <option value="$PROJECT_DIR$/src/main/java/if_else.java" />
-        <option value="$PROJECT_DIR$/src/main/java/StdInStdOut.java" />
-        <option value="$PROJECT_DIR$/src/main/java/OutputFormatting.java" />
-        <option value="$PROJECT_DIR$/src/main/java/loop2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Datatype.java" />
-        <option value="$PROJECT_DIR$/src/main/java/EndOfFile.java" />
         <option value="$PROJECT_DIR$/src/main/java/obs.java" />
         <option value="$PROJECT_DIR$/src/main/java/StdinandStdoutI.java" />
         <option value="$PROJECT_DIR$/src/main/java/staticblock.java" />
@@ -214,8 +210,21 @@
         <option value="$PROJECT_DIR$/src/main/java/inheritance/question1/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/inheritance/question1/Bird.java" />
         <option value="$PROJECT_DIR$/src/main/java/inheritance/question1/question2/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/inheritance/question1/question2/Arithmetic.java" />
         <option value="$PROJECT_DIR$/src/main/java/inheritance/question1/question2/Adder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inheritance/question1/question2/Arithmetic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OOPS/abstractquest/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OOPS/abstractquest/MyBook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstractquest/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/abstractquest/MyBook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OOPS/abstractques/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OOPS/abstractques/MyBook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OOPS/javamethodoverriding/Soccer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OOPS/javamethodoverriding/BiCycle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OOPS/InstanceOFTutorial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OOPS/JavaIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MyCalculatorInterfaceQues.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OOPS/javamethodoverriding/Sports.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ExceptionHandelingQ1.java" />
       </list>
     </option>
   </component>
@@ -227,7 +236,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="273" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="733" />
   </component>
@@ -261,14 +270,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackerrank_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackerrank_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="question1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hackerrank_java" type="b2602c69:ProjectViewProjectNode" />
@@ -339,14 +340,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
-    <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayList" />
-      <module name="hackerrank_java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ExceptionHandelingQ1">
     <configuration name="EndOfFile" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EndOfFile" />
       <module name="hackerrank_java" />
@@ -354,12 +348,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.question1.question2.Solution" />
+    <configuration name="ExceptionHandelingQ1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandelingQ1" />
+      <module name="hackerrank_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstanceOFTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.InstanceOFTutorial" />
       <module name="hackerrank_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.question1.question2.*" />
+          <option name="PATTERN" value="OOPS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -367,12 +368,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.question1.Solution" />
+    <configuration name="JavaIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.JavaIterator" />
       <module name="hackerrank_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.question1.*" />
+          <option name="PATTERN" value="OOPS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.javamethodoverriding.Solution" />
+      <module name="hackerrank_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPS.javamethodoverriding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="hackerrank_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.inheritance.question1.question2.Solution" />
+      <module name="hackerrank_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPS.inheritance.question1.question2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -387,27 +421,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="first" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first" />
-      <module name="hackerrank_java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sec" />
-      <module name="hackerrank_java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionHandelingQ1" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.JavaIterator" />
+        <item itemvalue="Application.InstanceOFTutorial" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.ArrayList" />
-        <item itemvalue="Application.first" />
-        <item itemvalue="Application.sec" />
       </list>
     </recent_temporary>
   </component>
@@ -441,7 +461,7 @@
       <workItem from="1584533041430" duration="395000" />
       <workItem from="1585054917241" duration="1560000" />
       <workItem from="1585236900960" duration="443000" />
-      <workItem from="1585662022301" duration="3234000" />
+      <workItem from="1585662022301" duration="8465000" />
     </task>
     <task id="LOCAL-00001" summary="few more challanges">
       <created>1569144785734</created>
@@ -478,16 +498,24 @@
       <option name="project" value="LOCAL" />
       <updated>1583255362107</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="few more challanges">
+      <created>1585933824244</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585933824244</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67020000" />
+    <option name="totallyTimeSpent" value="72251000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33360258" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33360258" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -496,8 +524,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4927302" visible="true" weight="0.24246575" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49434572" weight="0.5367347" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4927302" visible="true" weight="0.3260274" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49434572" weight="0.53561646" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -617,11 +645,48 @@
           <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/OOPS/JavaIterator.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/OOPS/JavaIterator.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>it</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>it.</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>element instanceof String</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>element.toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>element</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>s</expression-string>
         <language-id>JAVA</language-id>
@@ -642,52 +707,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>s.split(&quot;[ .,?!']+&quot;)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s.split(&quot;[ .,?!]+&quot;)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s.split(&quot;[A-Za-z !,?._\'@]+&quot;)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s.split(&quot;[ .,?!]+&quot;);</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s.split(&quot;[A-Za-z !,?._\'@]+&quot;);</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/obs.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/io/FileOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="202" column="18" selection-start-line="202" selection-start-column="18" selection-end-line="202" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/learningJava/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/SecurityManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3945">
@@ -924,7 +946,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/question1/Animal.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/inheritance/question1/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
@@ -935,10 +957,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/question1/Bird.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/inheritance/question1/Bird.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding>
             <element signature="e#75#76#0" expanded="true" />
             <element signature="e#124#125#0" expanded="true" />
@@ -960,24 +982,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/question1/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/inheritance/question1/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/question1/question2/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/inheritance/question1/question2/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/question1/question2/Adder.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/inheritance/question1/question2/Adder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
           <folding>
             <element signature="e#113#114#0" expanded="true" />
             <element signature="e#142#143#0" expanded="true" />
@@ -985,10 +1007,140 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/inheritance/question1/question2/Arithmetic.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstractquest/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" selection-start-line="2" selection-start-column="20" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/abstractquest/MyBook.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="9" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/inheritance/question1/question2/Arithmetic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/abstractques/MyBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/abstractques/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Override.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/javamethodoverriding/Soccer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/javamethodoverriding/BiCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="e#73#74#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/InstanceOFTutorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="18" column="16" selection-start-line="12" selection-start-column="11" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="863" column="18" selection-start-line="863" selection-start-column="18" selection-end-line="863" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/JavaIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#343#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MyCalculatorInterfaceQues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="27" selection-start-line="27" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/javamethodoverriding/Sports.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#70#71#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExceptionHandelingQ1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="16" column="67" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class loop2 {
+public class Loop2 {
 
     public static void main(String []argh) {
         Scanner sc = new Scanner(System.in);
@@ -19,7 +19,7 @@ public class loop2 {
                 System.out.print(sum + " ");
 
             }
-            System.out.println("");
+            System.out.println();
 
         }
     }

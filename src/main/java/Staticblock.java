@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class staticblock {
+public class Staticblock {
 
     private static int B;
     private static int H;

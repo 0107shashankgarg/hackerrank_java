@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
-public class Java_1D_Array {
+public class Java1DArray {
 
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
-
+        int _$_ = 0;
         int[] a = new int[n];
 
         for (int i = 0; i < n; i++) {

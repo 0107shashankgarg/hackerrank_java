@@ -5,7 +5,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.Locale;
 
-class dayofweek {
+class DayOfWeek {
 
     /*
      * Complete the 'findDay' function below.
@@ -46,7 +46,7 @@ class dayofweek {
 
             int year = Integer.parseInt(firstMultipleInput[2]);
 
-            String res = dayofweek.findDay(month, day, year);
+            String res = DayOfWeek.findDay(month, day, year);
 
             bufferedWriter.write(res);
             bufferedWriter.newLine();

@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class java_regex_ip {
+public class JavaRegexIp {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -15,8 +15,6 @@ public class java_regex_ip {
 
 class MyRegex {
     static final String pattern
-            = "^([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\." +
-            "([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\." +
-            "([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\." +
-            "([01]?\\d\\d?|2[0-4]\\d|25[0-5])$";
+            = "/(\\b\\w+\\b)\\W+\\1/";
 }
+

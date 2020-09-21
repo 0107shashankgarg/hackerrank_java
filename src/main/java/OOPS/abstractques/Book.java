@@ -1,11 +1,16 @@
 package OOPS.abstractques;
 
-abstract class Book {
-    String title;
+abstract class Book implements book_int {
 
-    String getTitle() {
-        return title;
+
+    public void readbook() {
+
     }
 
-    abstract void setTitle(String s);
+    protected void readbook2() {
+
+    }
+
+
 }
+
